@@ -11,4 +11,4 @@ sudo docker compose down
 
 move to  the folder created after the bash script is executed , enter into the folder and run " sudo docker compose up -d "
 
-dont run the immich-server bash script agin it will delete the existing folder and recreate it you will lose data
+dont run the immich-server bash script again, it will delete the existing folder and recreate it you will lose data
