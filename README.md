@@ -3,7 +3,7 @@ chmod +x setup-immich.sh
 
 ./setup-immich.sh
 
-#To stop immich server 
+# To stop immich server 
 
 sudo docker compose down 
 
